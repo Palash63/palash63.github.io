@@ -1,3 +1,24 @@
+---
+title: 'Blog Post number 10'
+date: 2018-08-06
+permalink: /posts/2018/08/blog-post-10/
+tags:
+  - posts
+  - category1
+  - category2
+---
+
+This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+
+Headings are cool
+======
+
+You can have many headings
+======
+
+Aren't headings cool?
+------
+
 R Markdown
 ----------
 
