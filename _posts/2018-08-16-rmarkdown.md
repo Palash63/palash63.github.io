@@ -115,9 +115,9 @@ Images begin with an exclamation mark, then the text to use if the image
 can't be displayed, then either the file address of the image (in the
 same directory as your document) or a URL.
 
-![KUMC logo.](C:/Users/Palash/Desktop/rmarkdown_files/logo.jpg)
+![KUMC logo.](https://github.com/Palash63/palash63.github.io/tree/master/images/logo.jpg)
 
-<img src="C:/Users/Palash/Desktop/rmarkdown_files/logo.jpg" alt="A caption" width="70%" />
+<img src="https://github.com/Palash63/palash63.github.io/tree/master/images/logo.jpg" alt="A caption" width="70%" />
 <p class="caption">
 A caption
 </p>
@@ -142,7 +142,7 @@ makes a scatter plot.
     data(cats)
     plot(Hwt ~ Bwt, data=cats, xlab="Body weight (kg)", ylab="Heart weight (g)",col=5)
 
-![](rmarkdown_files/figure-markdown_strict/unnamed-chunk-1-1.png)
+![](https://github.com/Palash63/palash63.github.io/tree/master/images/unnamed-chunk-1-1.png)
 
 First, notice how the code is included, nicely formatted, in the
 document. Second, notice how the output of the code is also
@@ -174,7 +174,7 @@ the image's width to be a bit less than half of the total width of the
 text on the page (so that two such images will fit side by side). The
 next few figures illustrate.
 
-<img src="rmarkdown_files/figure-markdown_strict/unnamed-chunk-3-1.png" style="display: block; margin: auto;" /><img src="rmarkdown_files/figure-markdown_strict/unnamed-chunk-3-2.png" style="display: block; margin: auto;" />
+<img src="https://github.com/Palash63/palash63.github.io/tree/master/images/unnamed-chunk-3-1.png" style="display: block; margin: auto;" /><img src="https://github.com/Palash63/palash63.github.io/tree/master/images/unnamed-chunk-3-2.png" style="display: block; margin: auto;" />
 
 ### Tables format
 
@@ -261,7 +261,7 @@ possible chunk options.
      scatter3D(x, y, z, phi = 0, bty = "g",
             pch = 20, cex = 2, ticktype = "detailed")
 
-![](rmarkdown_files/figure-markdown_strict/unnamed-chunk-7-1.png)
+![](https://github.com/Palash63/palash63.github.io/tree/master/images/unnamed-chunk-7-1.png)
 
 Math in R Markdown
 ==================
