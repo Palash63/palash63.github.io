@@ -1,7 +1,7 @@
 ---
 title: 'RStudio and RMarkdown for Analytic Report'
 date: 2018-08-16
-excerpt: A easy way to writing analytic report using RMarkdown
+excerpt: A easy way to write analytic report using RMarkdown
 permalink: /posts/2018/08/rmarkdown/
 tags:
   - posts
