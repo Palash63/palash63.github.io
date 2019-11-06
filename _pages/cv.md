@@ -126,18 +126,46 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
-Teaching
+CERTIFICATION 09/16/2017 - present
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+  * Collaborative Institutional Training Initiative(CITI) Certificate for Biomedical Researchers.
+  * Collaborative Institutional Training Initiative(CITI) Certificate for Responsible conduct of Research.
+
+HONORS AWARDS
+=========
+
+  * Midwest SAS conference Scholarship Indianapolis, Indiana/
+September 30, 2018 - October 2, 2018
+  * SCSUG Educational Forum Scholarship Austin, TX/
+November 4, 2018 - November 7, 2018
+  * Graduate Research Assistantship Department of Biostatistics/
+May-2017-present
+  * Graduate Teaching Assistant, Department of Mathematics and Statistics/
+August 2015 - July 2017
+  * Bangladesh Science and Technology Scholarship (Govt. of Bangladesh)/
+May 2012- May 2013
+
+
+COMMUNITY SERVICE
+============
+
+  * Midwest SAS Global conference, (Indianapolis, Indiana), Volunteer/
+September 30, 2018 - October 2, 2018
+  * Graduate Student association at UNR (Member), Volunteer/
+August 2015 - May 2017
+  * President of Bangladesh student association at UNR, Volunteer/
+December 2016 - may 2017
+  * Financial manager, KUMC biostatistics group, Volunteer/
+August 2017 - Present
+ *  Graduate Student Association at Ku Medical Center, Volunteer/
+August 2017 - Present
+
+PROFESSIONAL MEMBERSHIP
+============
+  * American Statistical Association
+  * American Statistical Society of Nevada Chapter.
+  * American Mathematical Association.
+  * Statistical society of Bangladesh (SSB).
+
