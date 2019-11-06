@@ -11,18 +11,18 @@ redirect_from:
 
 Education
 ======
-Doctor of Philosophy, Biostatistics & Data Science
-The Universi ty of Kansas Scho ol of Medicine , Kansas City, KS
+Doctor of Philosophy, Biostatistics & Data Science\
+The University of Kansas School of Medicine , Kansas City, KS\
 Enrolled: 2017.08 - Expected 2021.06
 
 
-Master of Science, Statistics
-The Universi ty of Nevada, Reno
+Master of Science, Statistics\
+The Universi ty of Nevada, Reno\
 Enrolled: 2015.08 - 2017.06
 
 
-Bachelor of Science, Mathematics
-University of Dhaka, Bangladesh
+Bachelor of Science, Mathematics\
+University of Dhaka, Bangladesh\
 Enrolled: 2010.01 - 2014.06
 
 Research Experience:
@@ -58,7 +58,7 @@ Work experience
 * Delta Life Insurance Company, Dhaka, Bangladesh
   * Model and predicted attrition rate among customers using parametric hazard rate regression model and R statistical software.
   * Wrote SQL query to extract data for reserve calculation.
-* Reviewed large account price by validating the loss run data entry, calculating mean of claim lags and reporting the number of cumulative claims.
+  * Reviewed large account price by validating the loss run data entry, calculating mean of claim lags and reporting the number of cumulative claims.
 
 Teaching Experience
 =====
