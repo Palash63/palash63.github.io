@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+=====
 Doctor of Philosophy, Biostatistics & Data Science\
 The University of Kansas School of Medicine , Kansas City, KS\
 Enrolled: 2017.08 - Expected 2021.06
@@ -75,7 +75,7 @@ Teaching Experience
   * Proctored, graded and recorded quizzes and exams
 
 Project
-=======
+=====
 * Bayesian Adaptive clinical trial with Interim Analysis: August 2019 - ongoing
    * Frequentest and Bayesian look at the data and data driven modification of the trial.
    * Extensive use of simulation to adjust characteristics of trial design.
@@ -108,8 +108,9 @@ discrimination to validate the proposed Cox proportional hazard model.
 diseases (Class Project).
   * Forecasting with Time series models with stock exchange data.(Class Project).
   * Analysis of case control study design with panel data. (Class Project)
+
 Skills
-======
+=====
 *  R for Statistical Analysis software
 * SAS suite of analytics, , SAS Macro language, SAS/GRAPH
   * PROC SQL
@@ -121,7 +122,7 @@ Skills
 
 
 Publications
-======
+=====
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -129,12 +130,12 @@ Publications
 
   
 CERTIFICATION 09/16/2017 - present
-======
+=====
   * Collaborative Institutional Training Initiative(CITI) Certificate for Biomedical Researchers.
   * Collaborative Institutional Training Initiative(CITI) Certificate for Responsible conduct of Research.
 
 HONORS AWARDS
-=========
+=====
 
   * Midwest SAS conference Scholarship Indianapolis, Indiana/
 September 30, 2018 - October 2, 2018
@@ -149,7 +150,7 @@ May 2012- May 2013
 
 
 COMMUNITY SERVICE
-============
+=====
 
   * Midwest SAS Global conference, (Indianapolis, Indiana), Volunteer/
 September 30, 2018 - October 2, 2018
@@ -163,7 +164,7 @@ August 2017 - Present
 August 2017 - Present
 
 PROFESSIONAL MEMBERSHIP
-============
+=====
   * American Statistical Association
   * American Statistical Society of Nevada Chapter.
   * American Mathematical Association.
