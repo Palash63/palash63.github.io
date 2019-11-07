@@ -6,7 +6,7 @@ Publiation : Under Review(Contemporary Clinial Trial )
 permalink: /publication/2009-10-01-paper-title-number-10
 -->
 
-excerpt: 'Recent developments in literature on sample size calculations for time-to-event outcomes involve assumption of Weibull distributed times. These methods require a point estimate of the Weibull shape parameter obtained from historical studies. However, no guidance exists in published literature on how accurate this point estimate is when it is obtained from published results of a historical study. 
+Abstract: Recent developments in literature on sample size calculations for time-to-event outcomes involve assumption of Weibull distributed times. These methods require a point estimate of the Weibull shape parameter obtained from historical studies. However, no guidance exists in published literature on how accurate this point estimate is when it is obtained from published results of a historical study. 
 &nbsp;
 
 Methods: We conduct simulation studies to assess how accurate the point estimate of the Weibull shape parameter is when it is estimated from published results of median survival time and/or corresponding interquartile range. Accuracy of this estimate is assessed using the criteria of average relative bias, root mean square error and coefficient of variation for various combination of censoring rates. Sensitivity of these calculations is assessed first, by increasing the number of survival quantiles used to calculate accuracy, and second, by using the full KM curve from the historical study.
@@ -16,8 +16,8 @@ Results: Our simulations suggest that point estimate of the shape parameter is r
 &nbsp;
 
 Conclusions: We conclude that assessing the accuracy of the estimate of Weibull shape parameter is important before it can be used to conduct sample size calculations for a subsequent trial. 
-'
 
+<!--  ' Text ' indicate the text is shown in the website otherwise it create a link
 <!-- date: Under Review 2019-10-01
 <!-- 2009-10-01-paper-title-number-1.md
 <!-- venue: 'Contemporary Clinial Trial '
