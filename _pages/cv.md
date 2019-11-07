@@ -11,18 +11,24 @@ redirect_from:
 
 Education
 =====
-Doctor of Philosophy, Biostatistics & Data Science\
-The University of Kansas School of Medicine , Kansas City, KS\
+Doctor of Philosophy, Biostatistics & Data Science
+&nbsp;
+The University of Kansas School of Medicine , Kansas City, KS
+&nbsp;
 Enrolled: 2017.08 - Expected 2021.06
 
 
-Master of Science, Statistics\
-The Universi ty of Nevada, Reno\
+Master of Science, Statistics
+&nbsp;
+The University of Nevada, Reno
+&nbsp;
 Enrolled: 2015.08 - 2017.06
 
 
-Bachelor of Science, Mathematics\
-University of Dhaka, Bangladesh\
+Bachelor of Science, Mathematics
+&nbsp;
+University of Dhaka, Bangladesh
+&nbsp;
 Enrolled: 2010.01 - 2014.06
 
 Research Experience:
@@ -137,30 +143,42 @@ CERTIFICATION 09/16/2017 - present
 HONORS AWARDS
 =====
 
-  * Midwest SAS conference Scholarship Indianapolis, Indiana/
+  * Midwest SAS conference Scholarship Indianapolis, Indiana
+  &nbsp;
 September 30, 2018 - October 2, 2018
-  * SCSUG Educational Forum Scholarship Austin, TX/
+
+  * SCSUG Educational Forum Scholarship Austin, TX
+  &nbsp;
 November 4, 2018 - November 7, 2018
-  * Graduate Research Assistantship Department of Biostatistics/
+
+  * Graduate Research Assistantship Department of Biostatistics
+  &nbsp;
 May-2017-present
-  * Graduate Teaching Assistant, Department of Mathematics and Statistics/
+  * Graduate Teaching Assistant, Department of Mathematics and Statistics
+  &nbsp;
 August 2015 - July 2017
-  * Bangladesh Science and Technology Scholarship (Govt. of Bangladesh)/
+  * Bangladesh Science and Technology Scholarship (Govt. of Bangladesh)
+  &nbsp;
 May 2012- May 2013
 
 
 COMMUNITY SERVICE
 =====
 
-  * Midwest SAS Global conference, (Indianapolis, Indiana), Volunteer/
+  * Midwest SAS Global conference, (Indianapolis, Indiana), Volunteer
+  &nbsp;
 September 30, 2018 - October 2, 2018
-  * Graduate Student association at UNR (Member), Volunteer/
+  * Graduate Student association at UNR (Member), Volunteer
+  &nbsp;
 August 2015 - May 2017
-  * President of Bangladesh student association at UNR, Volunteer/
+  * President of Bangladesh student association at UNR, Volunteer
+  &nbsp;
 December 2016 - may 2017
-  * Financial manager, KUMC biostatistics group, Volunteer/
+  * Financial manager, KUMC biostatistics group, Volunteer
+  &nbsp;
 August 2017 - Present
- *  Graduate Student Association at Ku Medical Center, Volunteer/
+ *  Graduate Student Association at Ku Medical Center, Volunteer
+ &nbsp;
 August 2017 - Present
 
 PROFESSIONAL MEMBERSHIP
