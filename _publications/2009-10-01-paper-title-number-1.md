@@ -4,7 +4,7 @@ trials for time-to-event outcome"
 
 collection: publications
 
-permalink: /publication/2009-10-01-paper-title-number-10
+[comment]: <>  permalink: /publication/2009-10-01-paper-title-number-10
 
 excerpt: 'Recent developments in literature on sample size calculations for time-to-event outcomes involve assumption of Weibull distributed times. These methods require a point estimate of the Weibull shape parameter obtained from historical studies. However, no guidance exists in published literature on how accurate this point estimate is when it is obtained from published results of a historical study. 
 &nbsp;
