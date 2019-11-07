@@ -1,10 +1,10 @@
 ---
-title: "Assessing accuracy of Weibull shape parameter estimate from historical studies for subsequent sample size calculation in clinical
-trials for time-to-event outcome"
+Title: "Assessing accuracy of Weibull shape parameter estimate from historical studies for subsequent sample size calculation in clinical trials for time-to-event outcome"
 
-collection: publications
-
-[comment]: <>  permalink: /publication/2009-10-01-paper-title-number-10
+Publiation : Under Review(Contemporary Clinial Trial )
+<!---
+permalink: /publication/2009-10-01-paper-title-number-10
+-->
 
 excerpt: 'Recent developments in literature on sample size calculations for time-to-event outcomes involve assumption of Weibull distributed times. These methods require a point estimate of the Weibull shape parameter obtained from historical studies. However, no guidance exists in published literature on how accurate this point estimate is when it is obtained from published results of a historical study. 
 &nbsp;
@@ -18,9 +18,9 @@ Results: Our simulations suggest that point estimate of the shape parameter is r
 Conclusions: We conclude that assessing the accuracy of the estimate of Weibull shape parameter is important before it can be used to conduct sample size calculations for a subsequent trial. 
 '
 
-date: Under Review 2019-10-01
+<!-- date: Under Review 2019-10-01
 
-venue: 'Contemporary Clinial Trial '
+<!-- venue: 'Contemporary Clinial Trial '
 
 <!--  paperurl: 'http://academicpages.github.io/files/paper1.pdf'   
 <!--  citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'  -->
