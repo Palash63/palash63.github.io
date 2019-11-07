@@ -76,7 +76,7 @@ Teaching Experience
 
 Project
 =====
-* Bayesian Adaptive clinical trial with Interim Analysis: August 2019 - ongoing
+* Bayesian Adaptive clinical trial with Interim Analysis: August 2019 - ongoing.
    * Frequentest and Bayesian look at the data and data driven modification of the trial.
    * Extensive use of simulation to adjust characteristics of trial design.
    * Comparative statistical analysis of various methods used for interim analysis based on final endpoint.
