@@ -13,22 +13,28 @@ Education
 =====
 Doctor of Philosophy, Biostatistics & Data Science
 &nbsp;
+
 The University of Kansas School of Medicine , Kansas City, KS
 &nbsp;
+
 Enrolled: 2017.08 - Expected 2021.06
 
 
 Master of Science, Statistics
 &nbsp;
+
 The University of Nevada, Reno
 &nbsp;
+
 Enrolled: 2015.08 - 2017.06
 
 
 Bachelor of Science, Mathematics
 &nbsp;
+
 University of Dhaka, Bangladesh
 &nbsp;
+
 Enrolled: 2010.01 - 2014.06
 
 Research Experience:
@@ -146,11 +152,9 @@ HONORS AWARDS
   * Midwest SAS conference Scholarship Indianapolis, Indiana
   &nbsp;
 September 30, 2018 - October 2, 2018
-
   * SCSUG Educational Forum Scholarship Austin, TX
   &nbsp;
 November 4, 2018 - November 7, 2018
-
   * Graduate Research Assistantship Department of Biostatistics
   &nbsp;
 May-2017-present
