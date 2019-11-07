@@ -15,7 +15,7 @@ Education
   * The University of Kansas School of Medicine , Kansas City, KS
   * Enrolled: 2017.08 - Expected 2021.06
 
-*Master of Science, Statistics
+* Master of Science, Statistics
   * The University of Nevada, Reno
   * Enrolled: 2015.08 - 2017.06
 
