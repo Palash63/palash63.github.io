@@ -11,31 +11,17 @@ redirect_from:
 
 Education
 =====
-Doctor of Philosophy, Biostatistics & Data Science
-&nbsp;
+* Doctor of Philosophy, Biostatistics & Data Science
+  * The University of Kansas School of Medicine , Kansas City, KS
+  * Enrolled: 2017.08 - Expected 2021.06
 
-The University of Kansas School of Medicine , Kansas City, KS
-&nbsp;
+*Master of Science, Statistics
+  * The University of Nevada, Reno
+  * Enrolled: 2015.08 - 2017.06
 
-Enrolled: 2017.08 - Expected 2021.06
-
-
-Master of Science, Statistics
-&nbsp;
-
-The University of Nevada, Reno
-&nbsp;
-
-Enrolled: 2015.08 - 2017.06
-
-
-Bachelor of Science, Mathematics
-&nbsp;
-
-University of Dhaka, Bangladesh
-&nbsp;
-
-Enrolled: 2010.01 - 2014.06
+* Bachelor of Science, Mathematics
+  * University of Dhaka, Bangladesh
+  * Enrolled: 2010.01 - 2014.06
 
 Research Experience:
 ======
