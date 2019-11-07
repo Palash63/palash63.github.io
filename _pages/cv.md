@@ -48,7 +48,7 @@ Research Experience:
 Work experience
 ======
 * Statistician - I: May 2014 - April 2015
-* International Center for Diarrhoeal disease Research, Bangladesh
+* International Center for Diarrhoeal disease Research, Bangladesh.
   * Design, implemented, and assessed surveys of data collection methodology.
   * Prepared data files for submission to the ICDDRB, following stringent data specifications in order to meet data standards.
   * Provided management with specific descriptive summaries, interpretation, and evaluations of numeric data that are necessary in developing public health policy.
