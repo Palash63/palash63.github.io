@@ -1,6 +1,6 @@
 ---
 title: "The influence of religious belief on burnout in medical students"
-publications: Under Review (Journal of Graduate Medical School)
+publications: Under Review 
 
-Abstract : Approximately half of all US medical students are experiencing burnout.6 A previous study has demonstrated that higher levels of spirituality are associated with less burnout in medical students,11 yet no studies have examined the relationship between religious affiliation and burnout in medical students. The purpose of this study was to determine if specific religious affiliation and level of religious involvement is associated with less burnout in medical students. An anonymous online survey that contained a validated burnout measure, an item to identify religious affiliation, as well as items to quantify religious involvement was sent to students at various medical schools in Kansas and Missouri. A total of 495/*** medical students completed the survey. An ANOVA showed religious affiliations and burnout scores did not have any statistically significant relationships (F = 0.762, P = 0.619). Additionally, identification as an active participant within a religious affiliation had a statistically significant effect on burnout scores (F = 7.793, P = 0.005). This is the first study to show that religious affiliation is not associated with medical student burnout and that students who profess a faith and consider themselves to be active participants may be at lower risk of developing burnout regardless of religious affiliation.
+
 
