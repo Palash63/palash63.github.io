@@ -23,15 +23,19 @@ Education
   * University of Dhaka, Bangladesh
   * Enrolled: 2010.01 - 2014.06
 
+Research Interest
+======
+Interim Monitoring; Survival Analysis; Bayesian Clinical trial Design; Linear/Non Linear Mixed effects model; Machine Learning; Alzheimer’s disease.
+
 Research Experience:
 ======
-* University of Kansas Cancer Center (KUCC): August 2019 - Present
+* University of Kansas Cancer Center (KUCC): August 2019 - Dec 2019
 * The University of Kansas Medical Center
   * Exploratory visualization of KUCC catchment area data.
-  * Used the Generalized estimating equation (GEE) model with spatial covariance structure to model the catchment data.
+  * Used the Generalized estimating equation (GEE) to model the catchment data.
   * the goal is to determine how KUCC hospital facilitate to improve the cancer in rural and urban population in Kansas.
 
-* Department of Nephrology and Hypertensi : August 2018 - Present
+* Department of Nephrology and Hypertension : August 2018 - Present
 * The University of Kansas Medical Center
   * Develop a statistical model on geriatric nephrology with a focus on cognitive impairment and quality of life in patients with kidney diseases
   * Studying cognitive function before and after kidney transplantation and the adverse effects of immune suppression on cognition and quality of life.
@@ -64,11 +68,11 @@ Teaching Experience
 * Graduate Teaching Assistant August 2017 - 2018
 * Department of Biostatistics, The University of Kansas Medical Center.
   * Taught course BIOS 740 Applied Multivariate Methods (Fall 2018) , STAT 820 Statistical Computing (Summer 2017).
-  * Tutored in the biostatistics tutoring lab every other Friday to answer questions from students from various departments in KU medical center.
+  * Served as a consultant in the biostatistics tutoring lab every other Friday to answer questions from students from various medical programs at the KU medical center.
 
 * Graduate Teaching Assistant August 2015 - July 2017
 * Department of Mathematics and Statistics, The University of Nevada, Reno
-  * Course taught including Probability and Statistics, Advanced Calculus for College Students.
+  * Course taught including Probability and Statistics, Advanced Calculus, Pre Calculus - I,II for Undergrad Students.
   * Created lesson plans and fostered an environment conducive to facilitate students furthering their education.
   * Proctored, graded and recorded quizzes and exams
 
@@ -83,16 +87,16 @@ Project
    * explore how the SNPs assayed at baseline is associated with the disease progression over time as measured by diagnosis based on the change in MMSE and DR, and other factors.
    * explore such association differs further with respect to the APOE e4 status(interaction).
 
-* Donor kidney transplantati on using flexible parametric and semi-parametric statistical model: August 2018 - ongoing
+* Donor kidney transplantati on using flexible parametric and semi-parametric statistical model: August 2018 - August 2019
   * Fitted a Cox proportional hazard model for Kidney transplant data.
   * Conducted 10-fold cross validation based on overall C index as a measure of
 discrimination to validate the proposed Cox proportional hazard model.
 
-* Predicting hospitalization 30-Day Readmission: Kidney t ransplant disease : August 2017 - ongoing
+* Predicting hospitalization 30-Day Readmission: Kidney t ransplant disease : August 2017 - Dec 2017
   * Built a logistic model for prediction modeling using readmission data
   * Conduct cross validation analysis using different statistical method.
 
-* Developing R shiny web application for int egra ting electronic data capture and data management: August 2018 -On going
+* Developing R shiny web application for int egra ting electronic data capture and data management: August 2018 - August 2019
   * Using open source software Redcap, R-studio to develop R shiny app for real time data visualization and reporting for Alzheimer’s disease.
   * Using for weekly consensus meeting to evaluate the patient with dementia or not.
 
@@ -102,10 +106,11 @@ discrimination to validate the proposed Cox proportional hazard model.
 
 * Data Analysis Project: August 2015 - present
   * Titanic Survival data analysis.
-  * Write sample NIH grant to access the effectiveness of turmeric on hearth related
+  * Write sample NIH grant to access the effectiveness of turmeric on coronary heart related
 diseases (Class Project).
   * Forecasting with Time series models with stock exchange data.(Class Project).
   * Analysis of case control study design with panel data. (Class Project)
+  * Wrote sample protocol for a hypothetical clinical trial as a part of Clinical trial class project
 
 Skills
 =====
