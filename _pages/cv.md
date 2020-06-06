@@ -130,12 +130,12 @@ September 30, 2018 - October 2, 2018
   * SCSUG Educational Forum Scholarship Austin, TX
   &nbsp;
 November 4, 2018 - November 7, 2018
-  * Graduate Research Assistantship Department of Biostatistics
+  * Graduate Research Assistantship Department of Biostatistics & Data Science, KUMC
   &nbsp;
-May-2017-present
-  * Graduate Teaching Assistant, Department of Mathematics and Statistics
+August 2017-present
+  * Graduate Teaching Assistant, Department of Mathematics and Statistics, UNR
   &nbsp;
-August 2015 - July 2017
+August 2015 - May 2017
   * Bangladesh Science and Technology Scholarship (Govt. of Bangladesh)
   &nbsp;
 May 2012- May 2013
@@ -152,10 +152,10 @@ September 30, 2018 - October 2, 2018
 August 2015 - May 2017
   * President of Bangladesh student association at UNR, Volunteer
   &nbsp;
-December 2016 - may 2017
-  * Financial manager, KUMC biostatistics group, Volunteer
+December 2016 - May 2017
+  * Vice President, KUMC biostatistics Student Group, Volunteer
   &nbsp;
-August 2017 - Present
+August 2017 - August 2018
  *  Graduate Student Association at Ku Medical Center, Volunteer
  &nbsp;
 August 2017 - Present
