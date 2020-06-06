@@ -46,22 +46,6 @@ Research Experience:
   * Participate with researchers in the development of research methodology and study design.
   * Compile and analyze data on performances metrics from multiple data source in order to validate and standardize logic used across the platform.
 
-
-Work experience
-======
-* Statistician - I: May 2014 - April 2015
-* International Center for Diarrhoeal disease Research, Bangladesh.
-  * Design, implemented, and assessed surveys of data collection methodology.
-  * Prepared data files for submission to the ICDDRB, following stringent data specifications in order to meet data standards.
-  * Provided management with specific descriptive summaries, interpretation, and evaluations of numeric data that are necessary in developing public health policy.
-  * Utilized statistical methods for hypothesis testing to identify a significant difference between the population of interest.
-
-* Summer Intern: May 2013 - August 2013
-* Delta Life Insurance Company, Dhaka, Bangladesh
-  * Model and predicted attrition rate among customers using parametric hazard rate regression model and R statistical software.
-  * Wrote SQL query to extract data for reserve calculation.
-  * Reviewed large account price by validating the loss run data entry, calculating mean of claim lags and reporting the number of cumulative claims.
-
 Teaching Experience
 =====
 
@@ -178,8 +162,6 @@ August 2017 - Present
 
 PROFESSIONAL MEMBERSHIP
 =====
-  * American Statistical Association
-  * American Statistical Society of Nevada Chapter.
-  * American Mathematical Association.
-  * Statistical society of Bangladesh (SSB).
+  * American Statistical Association.
+  * Kansas-Western Missouri Chapter of ASA.
 
