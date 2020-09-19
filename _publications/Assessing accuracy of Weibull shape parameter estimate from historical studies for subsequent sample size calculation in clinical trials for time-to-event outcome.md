@@ -3,9 +3,9 @@ Abstract: In single-arm or two-arm clinical trials, sample size calculation is a
 
 Author: Milind A. Phadnis PhD, Palash Sharma MS, Nadeesha Thewarapperuma MS, Prabhakar Chalise PhD
 
-Publication : Contemporary Clinical Trials Communications 
+Publication : Contemporary Clinical Trials Communications
 
-doi.org/10.1016/j.conctc.2020.100548
+https://doi.org/10.1016/j.conctc.2020.100548
 <!---
 permalink: /publication/2009-10-01-paper-title-number-10
 -->
