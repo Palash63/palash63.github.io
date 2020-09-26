@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/reno.png'>"
+title: "Alma Mater 2: UNR"
+excerpt: "University of Nevada, Reno: Department of Mathematics and Statistics <br/><img src='/images/reno.png'>"
 collection: portfolio
 ---
 
