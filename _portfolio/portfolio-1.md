@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/kumc.png'>"
+title: "My Alma matter: KU Medical Center"
+excerpt: "University of Kansas School of Medicine where I have received my PhD<br/><img src='/images/kumc.png'>"
 collection: portfolio
 ---
 
