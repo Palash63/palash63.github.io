@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 3"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/du.png'>"
+title: "My Undergraduate School in Bangladesh"
+excerpt: "University of Dhaka: Department of Mathematics <br/><img src='/images/du.png'>"
 collection: portfolio
 ---
 
