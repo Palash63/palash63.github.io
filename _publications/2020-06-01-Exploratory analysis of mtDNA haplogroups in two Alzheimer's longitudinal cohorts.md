@@ -1,9 +1,9 @@
 ---
 title: "Exploratory analysis of mtDNA haplogroups in two Alzheimer's longitudinal cohorts"
 collection: publications
-permalink: /publication/2020-06-16-Exploratory analysis of mtDNA haplogroups in two Alzheimer's longitudinal cohorts
+permalink: /publication/2020-06-01-Exploratory analysis of mtDNA haplogroups in two Alzheimer's longitudinal cohorts
 excerpt: 'This paper is about the Exploratory analysis of mtDNA haplogroups in two Alzheimer's longitudinal cohorts'
-date: 2020-06-16
+date: 2020-06-01
 venue: 'Alzheimer's & Dementia'
 paperurl: ' https://doi.org/10.1002/alz.12119'
 citation: 'Swerdlow, Russell H., et al. "Exploratory analysis of mtDNA haplogroups in two Alzheimer's longitudinal cohorts." Alzheimer's & Dementia 16.8 (2020): 1164-1172.'
@@ -13,7 +13,7 @@ Without applying multiple comparisons corrections, KUADC haplogroup J AD and CN 
 
 [Download paper here]( https://doi.org/10.1002/alz.12119)
 
-Recommended citation: Swerdlow, Russell H., Dongwei Hui, Prabhakar Chalise, Palash Sharma, Xinkun Wang, Shea J. Andrews, Judy Pa et al. "Exploratory analysis of mtDNA haplogroups in two Alzheimer's longitudinal cohorts." Alzheimer's & Dementia 16, no. 8 (2020): 1164-1172..
+Recommended citation: Swerdlow, Russell H., et al. "Exploratory analysis of mtDNA haplogroups in two Alzheimer's longitudinal cohorts." Alzheimer's & Dementia 16.8 (2020): 1164-1172.
 
 
 
