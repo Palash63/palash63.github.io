@@ -5,7 +5,7 @@ permalink: /publication/2020-06-01-Exploratory analysis of mtDNA haplogroups in 
 excerpt: 'This paper is about the Exploratory analysis of mtDNA haplogroups in two Alzheimer's longitudinal cohorts'
 date: 2020-06-01
 venue: 'Alzheimer's & Dementia'
-paperurl: ' https://doi.org/10.1002/alz.12119'
+paperurl: 'https://doi.org/10.1002/alz.12119'
 citation: 'Swerdlow, Russell H., et al. "Exploratory analysis of mtDNA haplogroups in two Alzheimer's longitudinal cohorts." Alzheimer's & Dementia 16.8 (2020): 1164-1172.'
 ---
 Inherited mitochondrial DNA (mtDNA) variants may influence Alzheimer's disease (AD) risk. We sequenced mtDNA from 146 AD and 265 cognitively normal (CN) subjects from the University of Kansas AD Center (KUADC) and assigned haplogroups. We further considered 244 AD and 242 CN AD Neuroimaging Initiative (ADNI) subjects with equivalent data.
